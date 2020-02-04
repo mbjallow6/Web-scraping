@@ -1,0 +1,180 @@
+,Name,Primary programming language,Scripting,Cross-platform,2D/3D oriented,Target platform,Notable games,License,Notes and references
+0,4A Engine,C++,N/A,Yes,3D,"Windows, OS X, Linux, PlayStation 3, PlayStation 4, Xbox 360, Xbox One","Metro 2033, Metro: Last Light, Metro Exodus",Proprietary,N/A
+1,A-Frame (VR),"HTML, JavaScript",JavaScript,Yes,3D,Cross-platform,A-Painter[1],MIT,Open source Entity component system WebVR framework
+2,Adventure Game Interpreter,N/A,C style,Yes,2D,"DOS, Apple SOS, ProDOS, Classic Mac OS, Atari TOS",List,Proprietary,N/A
+3,Adventure Game Studio,C++,AGSScript,Yes,2D,"Windows, Linux","Chzo Mythos, Blackwell",Artistic 2.0,"Mostly used to develop third-person pre-rendered graphic adventure games, one of the most popular for developing amateur adventure games"
+4,Alamo,N/A,N/A,Yes,3D,"Windows, OS X, Xbox 360","Star Wars: Empire at War, Star Wars: Empire at War: Forces of Corruption, Universe at War: Earth Assault",Proprietary,N/A
+5,Aleph One,C++,"Lua, Marathon markup language",Yes,2.5D,"Windows, Linux, OS X",Aleph One (Marathon remake),GPL,FPS engine
+6,Antiryad Gx,"C, Assembler","C, C++, Gel",Yes,"2D, 3D","Windows, DOS, Mac OS, Linux, iOS, Android, AmigaOS, AROS, MorphOS, NACL",N/A,Proprietary,N/A
+7,Anura,"C++, FFL[2]",FFL[2],Yes,2D,"Windows, Linux, OS X, iOS, Android, BlackBerry 10","Frogatto & Friends, Argentum Age[3], Cube Trains[4]",zlib,"[citation needed], feature freeze"
+8,Anvil,"C++, C#",N/A,Yes,3D,"Windows, PlayStation 3, PlayStation 4, PlayStation Vita, Wii U, Xbox 360, Xbox One",List,Proprietary,N/A
+9,AppGameKit,"C++, BASIC","C#, C++, AGK BASIC",Yes,"2D, 3D","Windows, Mac, iOS, Android, HTML5, Raspberry Pi","Echoes, Driving Test Success Apps, Squashies",Proprietary,N/A
+10,Ardor3D,Java,N/A,Yes,3D,Cross-platform,N/A,zlib,Fork of jMonkeyEngine 2.0
+11,Aurora toolset,C++,NWScript,Yes,3D,"Windows, Linux, OS X",Neverwinter Nights,Proprietary,N/A
+12,BigWorld,N/A,Python,Yes,3D,"Windows, Linux, Xbox 360, PlayStation 3",List,Proprietary,N/A
+13,Blend4Web,"JavaScript, Python, C, C++",JavaScript,Yes,3D,"WebGL, Windows, Linux, OS X, iOS, Android","Experience Curiosity, Petigor's Tale, Back to the Middle Ages",GPLv3 or commercial,"Game content, including graphics, animation, sound, and physics, is authored in the 3D modeling and animation suite Blender[5]"
+14,Blender,"C, C++",Python,Yes,"2D, 3D","Windows, Linux, OS X, Solaris","Yo Frankie!, Sintel The Game, ColorCube",GPL,2D/3D game engine packaged in a 3D modeler with integrated Bullet physics library[6][7]
+15,Bork3D Game Engine,C++,N/A,Yes,3D,"IOS, OS X, Windows",List,BSD,N/A
+16,BRender,N/A,N/A,Yes,3D,"Windows, DOS, PlayStation","Carmageddon, FX Fighter, I-War (Independence War).",Proprietary,N/A
+17,Build engine,C,N/A,Yes,2.5D,"Windows, Linux, OS X, DOS","Duke Nukem 3D, Shadow Warrior, Blood, Redneck Rampage","Custom, free non-commercial use","FPS engine; 2.5D, 2D grid base geometry"
+18,Buildbox,C++,N/A,Yes,2D,"Windows, OS X, iOS, Android","Ball Jump, Sky, The Line Zen, Phases",Proprietary,Drag and drop game builder without scripting
+19,C4 Engine,N/A,N/A,Yes,3D,"PlayStation 4, PlayStation 3, Windows, OS X, Linux, iOS",List,Proprietary,"Retired, no longer available for licensing[8]"
+20,Cafu Engine,C++,Lua,Yes,3D,"Windows, Linux, OS X",N/A,GPL or Proprietary,Includes map editor and networking[9]
+21,Chrome Engine,C++,N/A,Yes,3D,"Windows, Linux, PlayStation 4, Xbox One",List,Proprietary,N/A
+22,ClanLib,C++,N/A,Yes,2.5D,"Windows, Linux, OS X",N/A,zlib,N/A
+23,Clausewitz,C++,N/A,Yes,3D,"Windows, OS X, Linux",All Paradox Development Studio games since 2007,Proprietary,N/A
+24,Clickteam Fusion,N/A,N/A,Yes,2D,"Windows, iOS, Android, HTML5, Adobe Flash",Five Nights at Freddy's,Proprietary,N/A
+25,"Cocos2d, Cocos2d-x, Cocos2d-html5","C++, Python, Objective-C, JavaScript","JavaScript, Java, Lua",Yes,"2D, 2.5D, 3D","Windows, Linux, OS X, iOS, Android, BlackBerry, Tizen","Hardest Game Ever 2, DQMSL, Tiny Village, Badland, Small Street, Tiny Tower, Pocket Planes, Hill Climb, Star Thief, Geometry Dash",MIT,Android target binds to Java; iOS target uses Objective-C
+26,Codea,Lua,N/A,No,2D,iOS,Cargo-Bot,Apache 2.0,N/A
+27,Coldstone,N/A,N/A,Yes,2D,"Mac OS 9, OS X, Windows",Pillars of Garendall,Proprietary,N/A
+28,Construct,C++,"JavaScript, Event System",Yes,2D,"Windows, OS X, Wii U, HTML5 capable internet browsers",N/A,"Proprietary, GPL Classic version",N/A
+29,CopperCube,N/A,N/A,Yes,3D,"Windows, OS X, Android, WebGL, Adobe Flash",N/A,Proprietary,N/A
+30,Core3D,Objective-C,N/A,Yes,3D,"Windows, Linux, OS X, iOS",CoreBreach,"3D Engine MIT, Source Code GPL v2",[10]
+31,Corona,Lua,N/A,Yes,2D,"iOS, Android, Kindle, Windows Phone 8, Apple TV, Android TV, OS X, Windows",N/A,Proprietary,N/A
+32,CPAL3D,N/A,N/A,No,3D,Windows,Memento Mori,Proprietary,N/A
+33,Creation Engine,C++,Papyrus,Yes,3D,"Windows, PlayStation 3, Xbox 360, Xbox One, PlayStation 4","The Elder Scrolls V: Skyrim, Fallout 4, Fallout 76",Proprietary,N/A
+34,CryEngine,C++,"Lua, C#",Yes,3D,"Windows, OS X, Linux, PlayStation 3, PlayStation 4, Wii U, Xbox 360, Xbox One, iOS, Android",List,Proprietary,N/A
+35,Crystal Tools,N/A,N/A,Yes,3D,"PlayStation 3, Xbox 360, Windows, Wii",List,Proprietary,N/A
+36,Crystal Space,C++,"Java, Perl, Python",Yes,3D,"Windows, Linux, OS X","Keepsake, The Crystal Scrolls, Yo Frankie!",LGPL,N/A
+37,Cube,C++,N/A,Yes,3D,"Windows, Linux, OS X","AssaultCube, Cube",zlib,"Prior generation (means it has a successor), 2D grid-based system, optimized for outdoor not indoor maps"
+38,Cube 2: Sauerbraten,C++,CubeScript,Yes,3D,"Windows, Linux, OS X","Cube 2: Sauerbraten, Red Eclipse",zlib,"Efficient 6-directional height map based geometry (versus traditional Polygon soup model), hence the name Cube, FPS engine"
+39,Dagor Engine,N/A,N/A,Yes,3D,"Windows, PlayStation 4, PlayStation 3, Xbox 360, Linux, OSX",List,Proprietary,N/A
+40,Dark Engine,C++,N/A,No,3D,Windows,"Thief: The Dark Project, System Shock 2, Thief II: The Metal Age",Proprietary,Advanced AI and sound features (full control of sound propagation). Edited with DromEd.
+41,Decima,N/A,N/A,No,3D,PlayStation 4,"Death Stranding, Horizon Zero Dawn, Killzone Shadow Fall, Until Dawn, Until Dawn: Rush of Blood",Proprietary,N/A
+42,Defold,Lua,Lua,Yes,2D,"iOS, Android, HTML5, Windows, OSX, Linux","Blastlands, Blossom Blast Saga, Pet Rescue Puzzle Saga, Family Age, Hammerwatch Coliseum",Proprietary,N/A
+43,Delta3D,C++,Python,Yes,2.5D,Cross-platform,N/A,LGPL,N/A
+44,Dim3,C++,JavaScript,Yes,3D,Cross-platform,N/A,MIT,N/A
+45,DimensioneX Multiplayer Engine,Java,"Java, VBScript",Yes,2.5D,Cross-platform,Underworld Online,GPL,Produces browser games with pseudo-3D views; games can be made into Facebook Apps; intended for beginners
+46,DX Studio,C++,JavaScript,No,3D,Windows,N/A,"proprietary, Freeware",N/A
+47,Dunia Engine,C++,N/A,Yes,3D,"Windows, PlayStation 3, Xbox 360, PlayStation 4, Xbox One",List,Proprietary,Based on CryEngine
+48,ego,N/A,N/A,Yes,3D,"PlayStation 3, Windows, Xbox 360, OS X, Wii, Wii U, Xbox One, PlayStation 4",List,Proprietary,Primarily used for racing games
+49,Electron toolset,C#,NWScript,No,3D,Windows,Neverwinter Nights 2,Proprietary,N/A
+50,Elflight Engine,Java,N/A,Yes,3D,Cross-platform,N/A,Proprietary,Targeted for web based games
+51,Enforce,N/A,N/A,No,3D,Windows,"Shade: Wrath of Angels, Alpha Prime, Carrier Command: Gaea Mission, Take On Mars",Proprietary,N/A
+52,Enigma Engine,N/A,N/A,Yes,3D,"Windows, OS X,","Blitzkrieg, Blitzkrieg 2",Proprietary,N/A
+53,Esperient Creator,Lang,"Lisp, CScript",No,3D,Windows,N/A,Proprietary,N/A
+54,Essence Engine,N/A,N/A,No,3D,Windows,List,Proprietary,N/A
+55,Euphoria,N/A,N/A,Yes,3D,"Windows, PlayStation 4, Xbox One, PlayStation 3, Xbox 360, iOS, Android",N/A,Proprietary,N/A
+56,Exult,C++,N/A,Yes,2D,"Windows, Linux, OS X, BSD",N/A,GPL,Free software re-implemented Ultima VII game engine
+57,Flare3D,ActionScript 3,N/A,Yes,3D,"Web, Windows, iOS, Android, BlackBerry",List,Proprietary,N/A
+58,Flixel,ActionScript,N/A,Yes,2D,N/A,Various games by Gregory Weir,MIT,Boilerplate code for Flash games
+59,Forgelight Engine,N/A,N/A,No,3D,Windows,"Free Realms, PlanetSide 2, Landmark, EverQuest Next, H1Z1: Just Survive, H1Z1: King of the Kill",Proprietary,N/A
+60,Fox Engine,N/A,N/A,Yes,3D,"Windows, PlayStation 3, PlayStation 4, Xbox 360, Xbox One",List,Proprietary,N/A
+61,Freescape,N/A,Freescape Command Language,Yes,3D,"Amstrad CPC, ZX Spectrum, IBM PC, Commodore 64, Commodore Amiga, Atari ST",List,Proprietary,N/A
+62,Frostbite,C++,N/A,Yes,3D,"Windows, PlayStation 3, PlayStation 4, Xbox 360, Xbox One",List,Proprietary,Used originally for Battlefield (series) video games
+63,Future Pinball,N/A,N/A,No,3D,Windows,N/A,Freeware,N/A
+64,Gamebryo,C++,N/A,Yes,3D,"Windows, PlayStation 3, PlayStation 4, Xbox 360, Xbox One",List,Proprietary,N/A
+65,Game Editor,N/A,Custom (C styled),Yes,2D,"iPhone, iPad, OS X, Windows (95-Windows 7), Linux, Windows-based smartphones, GP2X, Pocket PCs, Handheld PCs",N/A,"GPL, Proprietary",N/A
+66,GameMaker Studio,GML,"Game Maker Language, JavaScript, GLSL",Yes,"2D, 3D","Windows, Windows 8, Xbox 360, Xbox One, PlayStation 3, PlayStation 4, PlayStation Vita, OS X, Ubuntu, HTML5, Android, iOS, Windows Phone 8, Tizen, Amazon Fire TV, Nintendo Switch",List of GameMaker Studio games,Proprietary,Limited 3D abilities
+67,GamePlay3D,C++,Lua,Yes,3D,"Windows, Linux, OS X, iOS, BlackBerry 10, Android",N/A,Apache 2.0,"Aimed at the indie game developer ecosystem, similar features to cocos2d-x"
+68,GameSalad,Lang,Script,Yes,2D,"iOS, Android",N/A,Proprietary,N/A
+69,Gamestudio,N/A,"C-Script, Lite-C",No,3D,Windows,List,Proprietary,Games can be published royalty-free
+70,Gamvas,JavaScript,JavaScript,Yes,2D,HTML5,N/A,MIT,HTML5 canvas game engine with Box2D integration
+71,Godot,C++,"GDScript, C#, Visual Script, GDNative",Yes,"2D, 2.5D, 3D","Windows, macOS, Linux, UWP, iOS, Android, HTML and Web Assembly",N/A,MIT,Open source. 3.0+ adds C# scripting plus other languages via modules and GDNative. PBR and Global Illumination.
+72,Gold Box,"Assembly, Pascal, C, C++",N/A,Yes,2D,"Amiga, Apple II, Atari ST, Commodore 64/128, DOS, Macintosh, Nintendo Entertainment System, PC-9801, Sega Genesis","Pool of Radiance, Gateway to the Savage Frontier, Champions of Krynn, Buck Rogers: Countdown to Doomsday, Neverwinter Nights, Spelljammer: Pirates of Realmspace",Proprietary,SSI's engine for Advanced Dungeons & Dragons role-playing games
+73,GoldSrc,"C, C++, Assembly",N/A,Yes,3D,"Windows, OS X, Linux, PlayStation 2, Xbox, Dreamcast","Half-Life, Team Fortress Classic, Half-Life: Opposing Force, Counter-Strike, Ricochet, Deathmatch Classic, Half-Life: Blue Shift, Half-Life: Decay, Day of Defeat, Counter-Strike: Condition Zero, Counter-Strike Neo, Counter-Strike Online",Proprietary,Highly modified Quake engine
+74,HeroEngine,"C++, C#",HeroScript Language,No,3D,Windows,Star Wars: The Old Republic,Proprietary,N/A
+75,Horde3D,C++,N/A,Yes,3D,"Windows, Linux",N/A,EPL,Small 3D rendering engine for large crowds of animated characters
+76,HPL Engine,C++,AngelScript,Yes,3D,"Windows, Linux, OS X","Penumbra: Overture, Penumbra: Black Plague, Penumbra: Requiem, Amnesia: The Dark Descent, Amnesia: A Machine for Pigs, Soma","Proprietary, GPL version 1","Cross-platform, compatible with OpenGL, OpenAL, and Newton Game Dynamics libraries; defining features include ability for advanced object interaction via use of Newton's physics code"
+77,id Tech 1 (Doom),C,ACS,Yes,2.5D,"Windows, Linux, OS X","Doom, Doom II, Heretic, Hexen, Strife, Chex Quest",GPL,"2D-based level geometry, sprites, and particles, uses clever methods to give illusion of 3D depth"
+78,id Tech 2 (Quake),C,QuakeC,Yes,3D,"Windows, Linux, OS X",Quake,GPL,First true 3D id Tech engine
+79,id Tech 2 (Quake II),C,C,Yes,3D,"Windows, Linux, OS X",Quake II,GPL,Also termed the Quake II engine
+80,id Tech 3,C,C,Yes,3D,"Windows, Linux, OS X","Quake III Arena, Quake Live",GPL,Also termed the Quake III engine
+81,id Tech 4,C++,C++ via DLLs,Yes,3D,"Windows, Linux, OS X","Doom 3, Doom 3 BFG Edition, Quake 4, Prey, Enemy Territory: Quake Wars, Wolfenstein, Brink",GPL,"Also termed the Doom 3 engine; features advanced: lighting, shadows, interactive GUI surfaces"
+82,id Tech 5,"C++, AMPL, Clipper, Python",Script,Yes,3D,"Windows, OS X, Xbox 360, Xbox One, PlayStation 3, PlayStation 4","Rage, Wolfenstein: The New Order, Wolfenstein: The Old Blood, The Evil Within",Proprietary,"First id Tech engine to feature MegaTexture technology, starting with Rage"
+83,id Tech 6,C++,N/A,Yes,3D,"Windows, Xbox One, PlayStation 4, Nintendo Switch","Doom (2016), Wolfenstein II: The New Colossus",Proprietary,N/A
+84,id Tech 7,C++,N/A,Yes,3D,"Windows, PlayStation 4, Xbox One, Nintendo Switch",Doom Eternal,Proprietary,N/A
+85,iMUSE,N/A,N/A,N/A,N/A,Integrated with other engines,"Monkey Island 2: LeChuck's Revenge, all LucasArts adventure games afterwards",Proprietary,Dynamic music system
+86,Infinity Engine,N/A,N/A,Yes,2D,"Windows, Mac OS, OS X, AmigaOS 4","Baldur's Gate, Planescape: Torment, Icewind Dale, Baldur's Gate II: Shadows of Amn, Icewind Dale II",Proprietary,N/A
+87,Irrlicht,C++,C++,Yes,3D,"Windows, Mac OS, Linux, Windows CE",List of Irrlicht games,zlib,"Open source, audio with extension"
+88,ioquake3,C,N/A,Yes,3D,"Windows, Linux, OS X",Urban Terror,GPL,N/A
+89,Iron Engine,N/A,N/A,No,3D,Windows,"Sins of a Solar Empire, Sins of a Dark Age",Proprietary,N/A
+90,IW engine,C++,N/A,Yes,3D,"Windows, OS X, PlayStation 4, PlayStation 3, Xbox One, Xbox 360, Wii U, Wii",Call of Duty series,Proprietary,Originally built from id Tech 3
+91,Jade,C++,N/A,Yes,3D,Cross-platform,List,Proprietary,N/A
+92,Jake2,Java,N/A,Yes,3D,Cross-platform,N/A,GPL,Java port of Quake II game engine
+93,Java3D,Java,N/A,Yes,3D,Cross-platform,N/A,BSD,Community-centric project. Last version 1.6.0 (April 2015). Used by many schools as part of course work
+94,Jedi,C,N/A,Yes,2.5D,"DOS, Windows","Star Wars: Dark Forces, Outlaws",Proprietary,Rumored to have been reverse-engineered from Doom engine
+95,jMonkeyEngine,Java,N/A,Yes,3D,Cross-platform,N/A,BSD,"Community-centric project, used by several commercial game studios"
+96,Kinetica,N/A,N/A,No,3D,PlayStation 2,List,Proprietary,N/A
+97,Kivy (framework),Python,Kv,Yes,2.5D,"Windows, Linux, OS X, iOS, Android","Deflectouch, FishLife",MIT,"For rapid development, can make multi-touch apps"
+98,LayaAir,N/A,"ActionScript 3, JavaScript, TypeScript",Yes,"2D, 3D","WebGL, Windows, Linux, OS X, iOS, Android",N/A,GPL or commercial,"2D/3D game engine and also VR mode, provide free tools to convert 3d assets content from FBX files or Unity scene."
+99,Leadwerks,C++,Lua,Yes,3D,"Windows, Linux","Hoodwink, Rogue System",Proprietary,N/A
+100,LibGDX,Java,N/A,Yes,"2D, 3D","GNU/Linux, Windows, OS X, iOS, Android, Java applet, WebGL",Ingress,Apache 2.0,"Java game development framework, provides a unified API that works across all supported platforms"
+101,LithTech,N/A,N/A,Yes,3D,Cross-platform,List,Proprietary,N/A
+102,Lumberyard,C++,Lua,Yes,3D,"PlayStation 4, Xbox One, Windows",N/A,Proprietary,The software is free to download and use however is works closely with amazon services.
+103,Luminous Studio,N/A,N/A,Yes,3D,"PlayStation 4, Xbox One, Windows",Final Fantasy XV,Proprietary,N/A
+104,LyN,N/A,N/A,Yes,3D,Cross-platform,List,Proprietary,Intended to scale effectively on 7th and 8th generation consoles
+105,LÖVE,Lua,Lua,Yes,2D,"iOS, Android, Windows, Linux, OS X, NetBSD, FreeBSD, OpenBSD, Solaris,and all platforms supported by pkgsrc[11]","Mari0, Journey to the Center of Hawkthorne, Move or Die[12]",zlib,[13]
+106,M.U.G.E.N,C,N/A,Yes,2D,"Linux, DOS, Windows, OS X",N/A,Freeware,"Used Allegro initially, now uses on SDL"
+107,Marmalade,"C++, Lua, Objective-C, HTML5","Lua, 2DKit",Yes,"2D, 3D","iOS, Android, BlackBerry, Windows 10, Amazon, OS X, Windows, Tizen, Roku, Chromecast",List of Marmalade Games,Proprietary,"High-performance, cross-platform, with authoring tools and asset store"
+108,Moai SDK,C++,Lua,Yes,2D,"Windows, OS X, iOS, Android, Linux","Crimson Steam Pirates, Broken Age, Lost in Paradise",CPAL,N/A
+109,MT Framework,C++,N/A,Yes,3D,"PlayStation 3, Xbox 360, Windows, Wii, Wii U, Nintendo 3DS, PlayStation Vita",List,Proprietary,"Intended to be 7th generation console engine, replaced by Panta Rhei"
+110,MonoGame,C#,C#,Yes,"2D,3D","Windows, OS X, Xbox One, PlayStation 4, PlayStation Vita, Windows Phone, iOS, Android, Windows Store, Ouya, BSD","Skulls of the Shogun, Bastion, TowerFall, Transistor (video game), Fez (video game), Axiom Verge",Microsoft Public,N/A
+111,Nebula Engine,N/A,N/A,No,3D,Windows,"Drakensang: The Dark Eye, Drakensang: The River of Time",Proprietary,[citation needed]
+112,NScripter,N/A,N/A,No,2D,Windows,N/A,Freeware,N/A
+113,Odyssey Engine,N/A,N/A,Yes,3D,"Windows, OS X","Star Wars: Knights of the Old Republic, Star Wars: Knights of the Old Republic II: The Sith Lords",Proprietary,N/A
+114,OGRE,C++,C++,Yes,3D,"Linux, Windows (all major versions), OS X, NaCl, WinRT, Windows Phone 8, iOS and Android",Torchlight,MIT,3D rendering engine used by several games
+115,OHRRPGCE,FreeBASIC,HamsterSpeak,Yes,2D,"Windows, OS X, Linux, Android",Wandering Hamster,GPL,Role-playing game creation system; use of scripting is optional
+116,ONScripter,NScripter,NScripter,Yes,2D,"Windows, OS X, Linux, Dreamcast, PSP, iOS","Narcissu, Saya no Uta, Tsukihime",GPL,Used to develop visual novels and first-person adventure games
+117,OpenClonk,C++,C4Script,Yes,2.5D,"Windows, Linux, OS X",OpenClonk,ISC,Engine for 2D action/strategy platformers with 3D graphics
+118,OpenSimulator,C#,LSL,Yes,3D,"Windows, Linux, OS X, FreeBSD",N/A,BSD,"Server platform to host virtual worlds, compatible with Second Life clients"
+119,ORX,C/C++,Custom,Yes,2.5D,"Windows, Linux, OS X, iOS, Android",Le Magasin des Suicides,zlib,3D accelerated
+120,Panda3D,"C++, Python",Python,Yes,3D,"Windows, Linux, OS X, iOS","Toontown Online, Pirates of the Caribbean Online",BSD,N/A
+121,Panta Rhei,N/A,N/A,Yes,3D,"PlayStation 4, Xbox One, Windows",Deep Down,Proprietary,Successor to MT Framework for 8th generation consoles
+122,Phaser,JavaScript,JavaScript,Yes,2D,Cross-platform,N/A,MIT,N/A
+123,PhyreEngine,C++,N/A,Yes,3D,"PC, PlayStation Portable, PlayStation Vita, PlayStation 3, PlayStation 4",List,"proprietary, Freeware",N/A
+124,Pie in the Sky,C,N/A,Yes,2.5D,"DOS, Windows, OS X",List,Proprietary,N/A
+125,PlayCanvas,JavaScript,JavaScript,Yes,3D,"Windows, Linux, OS X, iOS, HTML5, Android","Swoop, Zombie Pac-man",MIT,Users can work on game at the same time via online browser and publish to multiple platforms; engine uses WebGL and includes physics
+126,PlayN,Java,N/A,Yes,2D,"iOS, Android, HTML5, Windows, Linux",Angry Birds Chrome,Apache 2.0,N/A
+127,PLIB,C++,N/A,Yes,3D,"Windows, Linux, OS X",N/A,LGPL,N/A
+128,Pyrogenesis,C++,JavaScript,Yes,3D,"Windows, Linux, OS X",0 A.D.,LGPL,Designed for RTS games
+129,Q,N/A,N/A,Yes,3D,"Windows, OS X , Linux, PS2, PS3, Wii",N/A,Proprietary,N/A
+130,Qfusion,C/C++,AngelScript,Yes,3D,"Windows, Linux, OS X, Android",Warsow,GPL,N/A
+131,Real Virtuality,C++,N/A,Yes,3D,"Windows, Xbox","ARMA 2, ARMA 3, DayZ",Proprietary,N/A
+132,REDengine,C++,N/A,Yes,3D,"Windows, OS X, Xbox 360, Xbox One, PlayStation 4","The Witcher 2: Assassins of Kings, The Witcher 3: Wild Hunt",Proprietary,N/A
+133,Ren'Py,Python,Pygame,Yes,2D,"Windows, OS X, Linux, Android, OpenBSD","Analogue: A Hate Story, Jisei, Katawa Shoujo, Doki Doki Literature Club!",MIT,Used to develop visual novels and first-person adventure games
+134,RenderWare,N/A,RWX,Yes,3D,"Windows, Mac OS, Nintendo GameCube, Wii, Xbox, Xbox 360, PlayStation 2, PlayStation 3, PlayStation Portable",List of RenderWare games,Proprietary,RenderWare script available in version 2 only
+135,Rockstar Advanced Game Engine (RAGE),N/A,N/A,Yes,3D,"Windows, PlayStation 3, PlayStation 4, Wii, Xbox 360, Xbox One",List,Proprietary,N/A
+136,RPG Maker,N/A,"Ruby, JavaScript",Yes,2D,"PC-8801, MSX2, PC-9801, Super Famicom, Windows, Sega Saturn, PlayStation, Game Boy Color, PlayStation 2, Game Boy Advance, Nintendo DS","Alpha Kimori, Ao Oni, Aveyond series, Barkley, Shut Up and Jam: Gaiden, Corpse Party, Eternal Eden, Laxius Force, One Night Trilogy, Super Columbine Massacre RPG!, To the Moon, Yume Nikki",Proprietary,"Game creation system, allows users to build their own role-playing games"
+137,SAGE,N/A,N/A,Yes,3D,"Windows, Macintosh, Xbox 360, PlayStation 3",List,Proprietary,Used for real-time strategy games
+138,SCUMM,N/A,N/A,Yes,2D,"3DO, Amiga, Apple II, Atari ST, CDTV, Commodore 64, FM Towns & Marty, Macintosh, Nintendo Entertainment System, DOS, Windows, Sega Mega-CD, TurboGrafx-16/PC Engine",Maniac Mansion,Proprietary,"Full name is Script Creation Utility for Maniac Mansion, from the first game it was used with; uses iMUSE and INSANE; ScummVM provides an open source re-creation"
+139,Shark 3D,C++,Python,Yes,3D,"Windows, Xbox, Xbox 360",Dreamfall: The Longest Journey,Proprietary,N/A
+140,ShiVa,C++,Lua,Yes,3D,"Windows, OS X, Linux, iOS, Android, Windows Phone, BlackBerry, PlayStation 3, PlayStation 4, Wii, Xbox 360, Xbox One, WebGL",Prince of Persia 2: The Shadow and the Flame (Mobile remake),Proprietary,N/A
+141,Sierra's Creative Interpreter (SCI),N/A,N/A,Yes,2D,"Amiga, Atari ST, Macintosh, PC-9801, IBM PC",Version list with games,Proprietary,N/A
+142,Silent Storm engine,N/A,N/A,No,3D,Windows,"Silent Storm, Night Watch, Hammer & Sickle, Day Watch",Proprietary,Used for turn-based tactics games
+143,Sith,N/A,COG,No,3D,Windows,Star Wars Jedi Knight: Dark Forces II,Proprietary,Used as the basis of the GrimE engine
+144,Snowdrop,C++,N/A,Yes,3D,"Windows, Switch, PlayStation 4, Xbox One","Tom Clancy's The Division, South Park: The Fractured but Whole, Mario + Rabbids Kingdom Battle, Skull & Bones",Proprietary,N/A
+145,Source,C++,"Squirrel, Lua, Python (Vampire, The Masquerade: Bloodlines, there is also a guide[14] on how to add python to your own Source game or mod)",Yes,3D,"Windows, OS X, Linux, PlayStation 3, Xbox, Xbox 360, Android","Half-Life 2, Counter-Strike: Source, Left 4 Dead, Portal, Team Fortress 2, others (list)",Proprietary,The SDK is bundled with many Source games
+146,Source 2,C++,Lua,Yes,3D,"Windows, OS X, Linux, Android, iOS[15]","Dota 2 (port)[16], The Lab (limited), Artifact, Dota Underlords, Half-Life: Alyx",Proprietary,"The first game using Source 2, Dota 2, was ported over from the original Source engine. One of The Lab's minigame Robot Repair uses Source 2 engine while rest of seven uses Unity's engine."
+147,Spring,C++,"C, C++, Java/JVM, Lua, Python",Yes,3D,"Windows, Linux, OS X","Balanced Annihilation, Zero-K",GPL,"RTS, simulated events, OpenGL"
+148,Starling Framework,ActionScript,N/A,Yes,2D,"Windows, OS X, GNU/Linux, iOS, Android","Angry Birds Friends, Incredipede",BSD Simplified,Recreates the traditional Flash display list architecture on accelerated graphics hardware
+149,Stencyl,Haxe,Haxe,Yes,2D,"Flash, HTML5, iOS, Android, Linux, OS X, Windows",N/A,Proprietary,Free to publish to flash and HTML5. Subscription required for publishing to desktop or mobile.
+150,Autodesk Stingray (Bitsquid),Lua,N/A,Yes,3D,"Windows, Mac, Linux, IOS, Android, PlayStation 4, PlayStation 3, Xbox 360",N/A,Proprietary,N/A
+151,StepMania,C++,Lua,Yes,3D,Cross-platform,"In the Groove, Pump It Up Pro, Pump It Up Infinity",MIT,A rhythm video game and engine that was originally developed as a simulator of Konami's DDR
+152,Stratagus,C,Lua,Yes,2D,Linux,Bos Wars,GPL,For real-time strategy games
+153,SunBurn XNA,N/A,N/A,No,3D,Xbox Live,AvaGlide,Proprietary,N/A
+154,Three.js,JavaScript,JavaScript,Yes,"3D, 2D","HTML5, Windows, Linux, OS X, iOS, Android",N/A,MIT,N/A
+155,TOSHI,N/A,N/A,Yes,3D,"Windows, Nintendo GameCube, Game Boy Advance, Nintendo DS, Wii, PlayStation 2, Xbox","Jurassic Park: Operation Genesis, Nicktoons Unite!, Barnyard, El Tigre: The Adventures of Manny Rivera, de Blob, Marvel Super Hero Squad",Proprietary,N/A
+156,Truevision3D,"Visual Basic, C++",N/A,No,3D,Windows,N/A,Proprietary,N/A
+157,Torque3D,C++,TorqueScript,Yes,3D,"Windows, Linux, OS X","Marble Blast Gold, ThinkTanks, Tribes 2, Villagers and Heroes, Blockland",MIT,"Includes multiplayer network code, seamless indoor-outdoor rendering engines, skeletal animation, drag and drop GUI creation, built in world editor, C-like scripting language"
+158,Turbulenz,TypeScript,JavaScript,Yes,"2D, 3D","HTML5, iOS, Android","Polycraft, Save the Day, Score Rush",MIT,N/A
+159,UbiArt Framework,C++,N/A,Yes,2.5D,Cross-platform,"Rayman Origins, Rayman Legends, Child of Light, Valiant Hearts: The Great War",Proprietary,N/A
+160,Unigine,C++,"C#, UnigineScript, GLSL, HLSL, UUSL",Yes,3D,"Windows, Linux, OS X, PlayStation 3, Android, iOS",List,Proprietary,"Focused on large open scenes: 64-bit precision of coordinates, support for geo coordintaes, round Earth model. Mainly used in enterprise and professional simulators."
+161,Unity,C++,"C#, Cg, HLSL",Yes,"2D, 2.5D, 3D","Windows, OS X, Linux, Xbox 360, Xbox One, Wii U, New 3DS, Nintendo Switch, PlayStation 4, PlayStation Vita, Windows Phone, iOS, Android, BlackBerry 10, Tizen, Unity Web Player, Windows Store, WebGL, Oculus Rift, Gear VR, Android TV, Samsung Smart TV",List of Unity games,Proprietary,N/A
+162,Unreal Engine,C++,"GLSL, Cg, HLSL, UnrealScript, C++, Blueprints",Yes,3D,Cross-platform,List of Unreal Engine games,Proprietary,UnrealScript was removed in version 4
+163,V-Play Game Engine,C++,"QML, JavaScript",Yes,2D,"iOS, Android, Windows, OS X",List,Proprietary,Built on Qt
+164,Vengeance Engine,C++,N/A,No,3D,Windows,"Tribes: Vengeance, SWAT 4",Proprietary,Based on Unreal Engine version 2/2.5
+165,Vicious Engine,Lang,Script,Yes,3D,"Nintendo GameCube, Wii, WiiWare, Xbox, Xbox 360, Xbox Live Arcade, PlayStation 2, PlayStation Portable, PlayStation Network, Windows",List,Proprietary,N/A
+166,Virtools,N/A,N/A,Yes,3D,N/A,Ballance,Proprietary,Used for game prototyping and rapid development
+167,Vision,Lang,Script,Yes,3D,"Windows, Xbox 360, PlayStation 3, Wii, Wii U, iOS, Android, PlayStation Vita, IE6 and up, Firefox 2.0 and up, Google Chrome, Opera 9 and up",List,Proprietary,N/A
+168,Visual3D Game Engine,C#/.NET,N/A,Yes,3D,"Windows, Xbox 360",N/A,Proprietary,Commercial successor to open-source RealmForge engine
+169,Visual Pinball,C++,VBScript,No,3D,Windows,N/A,"MAME-like pre-0.172, then BSD, GPL",N/A
+170,VRAGE,C#,N/A,Yes,3D,"Windows, Xbox One","Miner Wars 2081, Space Engineers,Medieval Engineers",Proprietary,Source code was released under a commercial license
+171,Wintermute Engine,C++,C-like syntax,No,2.5D,Windows,N/A,"Donationware, MIT, LGPL",Lite version lacks 3D Actor function
+172,World Builder,N/A,N/A,No,2D,System 3,N/A,Freeware,N/A
+173,WorldForge,C++,"Lua (client), Python (server)",Yes,3D,N/A,N/A,GPL,"MMORPG framework made of libraries, server, client, media"
+174,Xenko,C#,C#,Yes,2D/3D,"Windows, OS X, Linux, Xbox One, iOS, Android, UWP",N/A,MIT,Since build in .NET it always supports latest C#.
+175,XnGine,N/A,N/A,No,3D,DOS,"The Terminator: Future Shock, The Terminator: SkyNET, TES 2: Daggerfall, TES Legends: Battlespire, TES Adventures: Redguard",Proprietary,N/A
+176,Zest3D,"ActionScript 3, C++",Lua,Yes,3D,"Web, Windows, Linux, OS X, Android, iOS, BlackBerry",N/A,Boost,N/A
+177,Zillions of Games,N/A,Zillions Rules,No,2D,Windows,N/A,Proprietary,N/A
+178,Name,Primary programming language,Scripting,Cross-platform,2D/3D oriented,Target platform,Notable games,License,Notes and references
